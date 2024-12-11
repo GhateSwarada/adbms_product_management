@@ -1,0 +1,16 @@
+SMAP
+lessStock_jsp.java
+JSP
+*S JSP
+*F
++ 0 lessStock.jsp
+lessStock.jsp
+*L
+1,37:48
+39,26:87
+64,2:113
+66,4:115,3
+70,2:127
+72,12:130
+83,13:142
+*E
